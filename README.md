@@ -9,3 +9,4 @@ Reached an overall “precision” score of 85%
 Used TF serving to deploy the model as an API (on local)
 
 Built a TF serving client to interact with the API. This client should also be able to continuously accept data entered by the user and provide the sentiment for the review/chat entered by the end-user.
+In Presentation.pdf, Every step is explained in Detail.
